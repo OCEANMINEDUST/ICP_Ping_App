@@ -160,7 +160,7 @@ export default function LandingPage() {
               <div className="w-12 h-12 bg-purple-500 text-white rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">
                 3
               </div>
-              <h3 className="font-semibent mb-2">Earn Tokens</h3>
+              <h3 className="font-semibold mb-2">Earn Tokens</h3>
               <p className="text-gray-600 text-sm">Build up your JET token balance through various activities</p>
             </div>
             <div className="text-center">
