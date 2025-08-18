@@ -1,34 +1,34 @@
-# Ping - Sustainable Recycling Platform
+ Ping - Sustainable Recycling Platform
 
 A React application built with Vite for product authentication and PET bottle recycling on the Internet Computer blockchain.
 
-## Features
+ Features
 
-- 🔍 **Product Authentication**: Scan QR codes to verify product authenticity
-- ♻️ **Smart Recycling**: Find nearby drop points and track recycling impact
-- 🪙 **JET Token Rewards**: Earn tokens for verified scans and recycling activities
-- 🔐 **Blockchain Security**: Built on Internet Computer for maximum security
-- 📱 **Mobile-First Design**: Responsive design optimized for mobile devices
-- 👥 **Admin Dashboard**: Comprehensive analytics and monitoring tools
+- 🔍 Product Authentication**: Scan QR codes to verify product authenticity
+- ♻️ Smart Recycling**: Find nearby drop points and track recycling impact
+- 🪙 JET Token Rewards**: Earn tokens for verified scans and recycling activities
+- 🔐 Blockchain Security**: Built on Internet Computer for maximum security
+- 📱 Mobile-First Design**: Responsive design optimized for mobile devices
+- 👥 Admin Dashboard**: Comprehensive analytics and monitoring tools
 
-## Tech Stack
+ Tech Stack
 
-- **Frontend**: React 18, TypeScript, Vite
-- **Styling**: Tailwind CSS, Radix UI
-- **Routing**: React Router DOM
-- **State Management**: React Context API
-- **Blockchain**: Internet Computer (Dfinity)
-- **Authentication**: Internet Identity, Social Login
+- Frontend**: React 18, TypeScript, Vite
+- Styling**: Tailwind CSS, Radix UI
+- Routing**: React Router DOM
+- State Management**: React Context API
+- Blockchain**: Internet Computer (Dfinity)
+- Authentication**: Internet Identity, Social Login
 
-## Getting Started
+ Getting Started
 
-### Prerequisites
+ Prerequisites
 
 - Node.js 18+ 
 - npm or yarn
 - Git
 
-### Installation
+ Installation
 
 1. Clone the repository:
 \`\`\`bash
@@ -82,34 +82,32 @@ src/
 └── index.css           # Global styles
 \`\`\`
 
-## Demo Accounts
+ Demo Accounts
 
-### User Account
+ User Account
 - Email: `user@example.com`
 - Password: `password123`
 
-### Admin Accounts
-- **Super Admin**: `superadmin` / `admin123`
-- **Admin**: `admin` / `admin123`
-- **Moderator**: `moderator` / `mod123`
+#Admin Accounts
+- Super Admin**: `superadmin` / `admin123`
+- Admin**: `admin` / `admin123`
+- Moderator**: `moderator` / `mod123`
 
-## Features Overview
+ Features Overview
+- QR Code Scanning**: Authenticate products using camera
+- Drop Point Locator**: Find nearby recycling centers
+- Wallet Management**: Track JET token balance and transactions
+- Rewards System**: Redeem tokens for real-world rewards
+- Profile Management**: Update personal information and preferences
 
-### User Features
-- **QR Code Scanning**: Authenticate products using camera
-- **Drop Point Locator**: Find nearby recycling centers
-- **Wallet Management**: Track JET token balance and transactions
-- **Rewards System**: Redeem tokens for real-world rewards
-- **Profile Management**: Update personal information and preferences
+ Admin Features
+*Dashboard**: Overview of platform statistics and metrics
+- Analytics**: Detailed charts and data visualization
+- User Management**: Monitor user activities and manage accounts
+  Real-time Monitoring**: Live activity feed and system health
+- Fraud Detection**: Identify and manage suspicious activities
 
-### Admin Features
-- **Dashboard**: Overview of platform statistics and metrics
-- **Analytics**: Detailed charts and data visualization
-- **User Management**: Monitor user activities and manage accounts
-- **Real-time Monitoring**: Live activity feed and system health
-- **Fraud Detection**: Identify and manage suspicious activities
-
-## Contributing
+ Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -117,15 +115,15 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
+ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
+Support
 
 For support, email support@ping-app.com or join our Discord community.
 
-## Acknowledgments
+ Acknowledgments
 
 - Built with [Vite](https://vitejs.dev/)
 - UI components from [Radix UI](https://www.radix-ui.com/)
@@ -134,11 +132,10 @@ For support, email support@ping-app.com or join our Discord community.
 - Blockchain integration with [Internet Computer](https://internetcomputer.org/)
 \`\`\`
 
-## ✅ **Complete React App Ready for Download!**
-
+✅ Complete React App Ready for Download!
 I've provided all the complete file contents for the Ping React application. The app is now fully downloadable and functional with:
 
-### 🚀 **Complete Features**
+ 🚀 Complete Features
 - **Authentication System** with React Context
 - **Landing Page** with full marketing content
 - **Sign In/Sign Up** pages with social login options
@@ -148,7 +145,7 @@ I've provided all the complete file contents for the Ping React application. The
 - **TypeScript Support** with proper configurations
 - **Vite Build System** for fast development
 
-### 📁 **File Structure**
+📁 **File Structure**
 \`\`\`
 ├── src/
 │   ├── components/ui/     ✅ Complete shadcn/ui components
@@ -165,7 +162,7 @@ I've provided all the complete file contents for the Ping React application. The
 └── README.md              ✅ Complete documentation
 \`\`\`
 
-### 🛠️ **Ready to Use**
+ 🛠️ **Ready to Use**
 1. **Download** all files
 2. **Run** `npm install`
 3. **Start** with `npm run dev`
